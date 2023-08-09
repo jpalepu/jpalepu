@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm thrilled to have you here exploring my world of code and innovation. 🚀
 
+
+<div align="center">
+ <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="Robot GIF" width="300"/>
+ </div>
+
 ## About Me
 
 I'm a junior control engineer and a passionate startup founder with over 2 years of immersive experience in the captivating realms of reinforcement learning, machine learning, and robotics. I live and breathe technology, constantly pushing boundaries to create smarter and more efficient solutions.
@@ -33,5 +38,8 @@ Cheers,
 
 _"In the midst of chaos, there is also opportunity." - Sun Tzu_
 
+<div align="center">
+ 
+  <img src="https://cdn.dribbble.com/users/2290757/screenshots/6044806/media/775e3a021ed6df04ab08170a46a4398f.gif" alt="AI GIF" width="300"/>
+</div>
 
-<div style='position:relative; padding-bottom:calc(64.54% + 44px)'><iframe src='https://gfycat.com/ifr/BiodegradableFloweryAmericankestrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/biodegradablefloweryamericankestrel">via Gfycat</a></p>
