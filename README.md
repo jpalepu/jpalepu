@@ -24,7 +24,7 @@ My current project has me deeply engrossed in the exciting world of active fault
 
 I'm more than just code – I'm a burst of energy and enthusiasm wrapped in bytes. Let's embark on this exhilarating journey together. Explore my repositories, get in touch, and let's create a future where technology knows no bounds.
 
-Feel free to reach out to me at [your.email@example.com](mailto:palepu.2022405@studenti.uniroma1.it) for collaborations, ideas, or just to say hi! 📬
+Feel free to reach out to me at [palepu.2022405@studenti.uniroma1.it](mailto:palepu.2022405@studenti.uniroma1.it) for collaborations, ideas, or just to say hi! 📬
 
 Stay curious, stay innovative, and keep pushing the limits of technology! 🚀🤖
 
@@ -33,7 +33,5 @@ Cheers,
 
 _"In the midst of chaos, there is also opportunity." - Sun Tzu_
 
-<div align="center">
-  <img src="https://your-image-url.com/robot-gif.gif" alt="Robot GIF" width="300"/>
-  <img src="https://your-image-url.com/ai-gif.gif" alt="AI GIF" width="300"/>
-</div>
+
+<div style='position:relative; padding-bottom:calc(64.54% + 44px)'><iframe src='https://gfycat.com/ifr/BiodegradableFloweryAmericankestrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/biodegradablefloweryamericankestrel">via Gfycat</a></p>
