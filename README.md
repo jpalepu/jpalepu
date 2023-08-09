@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here exploring my world o
 
 I'm a junior control engineer and a passionate startup founder with over 2 years of immersive experience in the captivating realms of reinforcement learning, machine learning, and robotics. I live and breathe technology, constantly pushing boundaries to create smarter and more efficient solutions.
 
-Currently, I'm proudly wearing multiple hats – I'm actively engaged in my role as a junior control engineer, fueling my hunger for knowledge as a master's student at Sapienza University of Rome, Italy, and of course, I'm enthusiastically driving my startup venture forward. 🌟
+Currently, I'm proudly wearing multiple hats – I'm actively engaged in my role as a junior control engineer, fueling my hunger for knowledge as a master's student at Sapienza University of Rome, Italy, and of course, I'm enthusiastically aspiring for my startup venture forward. 🌟
 
 ## What Sets Me Apart
 
-My journey has led me to master a plethora of cutting-edge frameworks that serve as the foundation for my groundbreaking projects. I'm a maestro in harnessing the power of TensorFlow and PyTorch to conjure magical machine learning models, while my nimble fingers craft beautiful experiences using Flutter. With a myriad of successful projects under my belt, I've honed my skills to create both practical and visionary solutions.
+My journey has led me to master a plethora of cutting-edge frameworks that serve as the foundation for my groundbreaking projects. I'm a maestro in harnessing the power of TensorFlow and PyTorch to conjure magical machine learning models, while my nimble fingers craft beautiful experiences using Matlab, Simulink and also unexpected thing Flutter. With a myriad of successful projects under my belt, I've honed my skills to create both practical and visionary solutions.
 
 ## Collaboration and Robotics Enthusiast
 
@@ -39,7 +39,6 @@ Cheers,
 _"In the midst of chaos, there is also opportunity." - Sun Tzu_
 
 <div align="center">
- 
   <img src="https://cdn.dribbble.com/users/2290757/screenshots/6044806/media/775e3a021ed6df04ab08170a46a4398f.gif" alt="AI GIF" width="300"/>
 </div>
 
