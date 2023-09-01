@@ -34,7 +34,7 @@ Feel free to reach out to me at [palepu.2022405@studenti.uniroma1.it](mailto:pal
 Stay curious, stay innovative, and keep pushing the limits of technology! 🚀🤖
 
 Cheers,
-[Jithin Kumar Palepu](https://github.com/jpalepu)
+[Jithin Kumar Palepu](https://jpalepu.netlify.app)
 
 _"In the midst of chaos, there is also opportunity." - Sun Tzu_
 
