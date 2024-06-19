@@ -21,10 +21,6 @@ My journey has led me to master a plethora of cutting-edge frameworks that serve
 
 I'm not just a lone coder in a sea of possibilities – I thrive on collaboration! I'm always excited to connect with fellow robotics aficionados, tech geeks, and visionary minds. If you're as passionate about pushing the boundaries of robotics as I am, let's team up and create something extraordinary! 🤝
 
-## Current Focus: Active Fault Tolerance in Quadrotors
-
-My current project has me deeply engrossed in the exciting world of active fault tolerance in quadrotors facing motor failures. Imagine the thrill of programming these agile machines to respond intelligently in the face of adversity. I'm working tirelessly to make this vision a reality, and I can't wait to share my progress with you!
-
 ## Let's Connect!
 
 I'm more than just code – I'm a burst of energy and enthusiasm wrapped in bytes. Let's embark on this exhilarating journey together. Explore my repositories, get in touch, and let's create a future where technology knows no bounds.
