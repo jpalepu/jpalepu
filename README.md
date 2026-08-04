@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,45:1e4b8f,100:38bdf8&height=190&section=header&text=Jithin%20Kumar%20Palepu&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=AI%20in%20physical%20systems%20%C2%B7%20Robotics%20%C2%B7%20Control&descAlignY=54&descSize=17" alt="Jithin Kumar Palepu" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+in+physical+systems;Robotics+%C2%B7+Control+%C2%B7+Embedded;Agent+harnesses+%C2%B7+Multi-agent+%C2%B7+RAG+at+scale;Founding+AI+%26+FD+Engineer;Robots+that+do+more+with+less" alt="AI in physical systems" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+in+physical+systems;Robotics+%C2%B7+Control+%C2%B7+Embedded;Agents+%C2%B7+Systems+%C2%B7+Robots;Founding+AI+%26+FD+Engineer;Robots+that+do+more+with+less" alt="AI in physical systems" /></a>
 
 <br/>
 
