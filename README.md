@@ -7,6 +7,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here exploring my world o
  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="Robot GIF" width="300"/>
  </div>
 
+<div align="center">
+  <img src="heatmap.svg" alt="Contribution heatmap" width="100%"/>
+  <br/>
+  <sub>Shaded by quartiles of my own active days, so a single 179-commit day doesn't wash out the rest.</sub>
+</div>
+
 ## About Me
 
 I'm a junior control engineer and a passionate startup founder with over 2 years of immersive experience in the captivating realms of reinforcement learning, machine learning, and robotics. I live and breathe technology, constantly pushing boundaries to create smarter and more efficient solutions.
