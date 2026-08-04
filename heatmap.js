@@ -17,7 +17,7 @@ const MONTH_NAMES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Se
 const WEEKDAY_LABELS = { 1: 'Mon', 3: 'Wed', 5: 'Fri' };
 
 async function fetchCalendarHtml(username) {
-  // Public, unauthenticated endpoint — no token, no API quota, no secrets to rotate.
+  // Public, unauthenticated endpoint. No token, no API quota, no secrets to rotate.
   const response = await fetch(`https://github.com/users/${username}/contributions`);
   if (!response.ok) throw new Error(`GitHub returned ${response.status} for user "${username}"`);
   return response.text();
@@ -39,7 +39,7 @@ function parseDays(html) {
     cell.count = match ? Number(match[1]) : 0;
   }
 
-  if (cellsById.size === 0) throw new Error('No contribution cells found — GitHub markup may have changed');
+  if (cellsById.size === 0) throw new Error('No contribution cells found, GitHub markup may have changed');
   return [...cellsById.values()];
 }
 
