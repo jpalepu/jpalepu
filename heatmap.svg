@@ -124,7 +124,7 @@
 <rect x="716" y="34" width="11" height="11" rx="2" class="l4"><title>34 on 2026-08-10</title></rect>
 <rect x="730" y="34" width="11" height="11" rx="2" class="l0"><title>0 on 2026-08-17</title></rect>
 <rect x="744" y="34" width="11" height="11" rx="2" class="l2"><title>5 on 2026-08-24</title></rect>
-<rect x="758" y="34" width="11" height="11" rx="2" class="l2"><title>4 on 2026-08-31</title></rect>
+<rect x="758" y="34" width="11" height="11" rx="2" class="l4"><title>39 on 2026-08-31</title></rect>
 <rect x="30" y="48" width="11" height="11" rx="2" class="l0"><title>0 on 2025-09-02</title></rect>
 <rect x="44" y="48" width="11" height="11" rx="2" class="l2"><title>5 on 2025-09-09</title></rect>
 <rect x="58" y="48" width="11" height="11" rx="2" class="l1"><title>3 on 2025-09-16</title></rect>
@@ -177,6 +177,7 @@
 <rect x="716" y="48" width="11" height="11" rx="2" class="l3"><title>9 on 2026-08-11</title></rect>
 <rect x="730" y="48" width="11" height="11" rx="2" class="l4"><title>41 on 2026-08-18</title></rect>
 <rect x="744" y="48" width="11" height="11" rx="2" class="l3"><title>8 on 2026-08-25</title></rect>
+<rect x="758" y="48" width="11" height="11" rx="2" class="l3"><title>11 on 2026-09-01</title></rect>
 <rect x="30" y="62" width="11" height="11" rx="2" class="l0"><title>0 on 2025-09-03</title></rect>
 <rect x="44" y="62" width="11" height="11" rx="2" class="l3"><title>9 on 2025-09-10</title></rect>
 <rect x="58" y="62" width="11" height="11" rx="2" class="l2"><title>6 on 2025-09-17</title></rect>
